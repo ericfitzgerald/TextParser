@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FileParser/FileParser.csproj" />
+  <Project Path="Filters/Filters.csproj" />
+  <Project Path="FilterText/FilterText.csproj" />
+  <Project Path="UnitTests/UnitTests.csproj" />
+</Solution>
